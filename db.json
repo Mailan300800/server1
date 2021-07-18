@@ -3,42 +3,42 @@
 {
 "id":1,
 "namePlace":"Quảng trường Ba Đình – Lăng Bác",
-"img1":"https://datvietvnn.com/wp-content/uploads/2020/07/dia-diem-check-in-tai-ho-tay.jpg",
-"textImg1":"Hồ Tây",
-"img2":"https://luhanhvietnam.com.vn/du-lich/vnt_upload/news/08_2020/kien-truc-hoang-thanh-thang-long.jpg",
-"textImg2":"Hoàng thành Thăng Long"
+"img1":"https://thongtinchongphandong.com/wp-content/uploads/2017/09/nangbadinh-300x200@2x.jpg",
+"textImg1":"Nắng Ba Đình",
+"img2":"https://kenh14cdn.com/k:thumb_w/600/2oQ5H25tXBXBOKJvZlhOQmSQushJd/Image/2014/05/20140519060533_IMG_8048-e0f16/xuc-dong-le-chao-co-o-quang-truong-ba-dinh-trong-ngay-sinh-nhat-bac.JPG",
+"textImg2":"Lễ chào cờ"
 },
 {
 "id":2,
 "namePlace":"Hồ Gươm",
-"img1":"https://luhanhvietnam.com.vn/du-lich/vnt_upload/news/07_2019/toa-soan-ha-noi-moi-min.jpg",
-"textImg1":"Phố cổ Hà Nội",
-"img2":"http://media.kinhtedothi.vn/524/2019/5/4/van%20mieu.JPG",
-"textImg2":"Văn miếu Quốc Tử Giám"
+"img1":"https://thiencamtravel.vn/Uploads/images/HA-NOI/hanoi-2.png",
+"textImg1":"Hòn ngọc xanh của thủ đô",
+"img2":"https://upanh123.com/wp-content/uploads/2020/09/hinh-anh-ho-guom9999.jpg",
+"textImg2":"Viên ngọc xanh giữa lòng Hà Nội"
 },
 {
 "id":3,
-"namePlace":"Dinh Độc Lập",
-"img1":"https://cdn.vntrip.vn/cam-nang/wp-content/uploads/2017/09/cho-ben-thanh-1.png",
-"textImg1":"Chợ Bến Thành",
-"img2":"https://cdn.vntrip.vn/cam-nang/wp-content/uploads/2017/09/dia-dao-cu-chi.png",
-"textImg2":"Địa đạo Củ Chi"
+"namePlace":"Phố cổ Hà Nội",
+"img1":"https://ttol.vietnamnetjsc.vn/images/2021/06/19/15/09/Pho-co-Ha-Noi-5.jpg",
+"textImg1":"Phố cổ Hà Nội ",
+"img2":"https://dulich9.com/wp-content/uploads/2015/09/du-lich-pho-co-ha-noi-1-ngay-1.jpg",
+"textImg2":"Du lịch Phố cổ"
 },
 {
 "id":4,
-"namePlace":"Khu du lịch Suối Tiên",
-"img1":"https://www.vietfuntravel.com.vn/image/data/sai-gon/kinh-nghiem-di-pho-di-bo-nguyen-hue-quan-1-tphcm/kinh-nghiem-di-pho-di-bo-nguyen-hue-quan-1-tphcm-h1.jpg",
-"textImg1":"Phố đi bộ Nguyễn Huệ",
-"img2":"https://aloviet.vn/wp-content/uploads/2020/11/cau-anh-sao-2.jpg",
-"textImg2":"Cầu Ánh Sao"
+"namePlace":"Văn Miếu – Quốc Tử Giám",
+"img1":"http://hinhdep.com.vn/wp-content/uploads/2016/04/anh-dep-ve-van-mieu-quoc-tu-giam-2.jpg",
+"textImg1":"Văn miếu",
+"img2":"https://yeulaitudautienganh.edu.vn/wp-content/uploads/2021/01/mau-cau-ve-van-mieu-quoc-tu-giam-tieng-anh.jpg",
+"textImg2":"Tìm hiểu Văn Miếu"
 },
 {
 "id":5,
-"namePlace":"Bà Nà Hill",
-"img1":"https://tourismdanang.com/wp-content/uploads/2020/05/A%CC%89nh-chu%CC%A3p-Ma%CC%80n-hi%CC%80nh-2020-05-28-lu%CC%81c-23.00.50.png",
-"textImg1":"Công viên Châu Á Asia Park",
-"img2":"https://cdn.yeudulich.com/940x630/media/attraction/attraction/VNMDAD16.jpg",
-"textImg2":"Suối khoáng nóng Thần Tài"
+"namePlace":"Nhà thờ lớn Hà Nội",
+"img1":"https://hoidulich.net/wp-content/uploads/2019/12/giang-sinh-tai-ha-noi-600x400.png",
+"textImg1":"Check in Giáng sinh",
+"img2":"https://media-cdn.tripadvisor.com/media/photo-p/0c/32/bb/8b/n-i-th-t-l-ng-l-y-sang_rotated_90.jpg",
+"textImg2":"Nội thất lộng lẫy"
 },
 {
 "id":6,
